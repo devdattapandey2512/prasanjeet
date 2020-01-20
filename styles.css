@@ -1,0 +1,136 @@
+
+body{color: #40514E;
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+}
+.profile-pic{
+  border-radius: 100%;
+  hight:25%;
+  width:25%;
+
+}
+p{
+    line-height: 2;
+}
+.profile-pic1{
+  border-radius: 15%;
+  width:20%;
+  float: left;
+  margin-right: 30px;
+}
+.profile-pic2{
+  border-radius: 15%;
+  width:20%;
+  margin-left: 30px;
+  float: right;
+}
+.m{
+  border-radius: 15%;
+  width:3%;
+  margin-left: 5px;
+
+}
+hr{
+  width: 10%;
+  border-style: dotted none none none;
+  border-width:  20px;
+  border-color: grey;
+}
+h1{font-size: 5rem;
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+  padding-top: 170px;
+  margin-top: 0;
+}
+h2{color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  padding:10px 0;
+}
+h3{color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.p1{font-size: 2rem;
+  color: #66bfbf;
+  text-decoration: underline;
+}
+#mountain{
+padding-top: 20px;
+}
+.top-container{
+
+  border-color: black;
+  margin: 0;
+  background-color:#E4F9F5 ;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 90px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 320px;
+}
+.contact-me-p{
+  width: 30%;
+  margin: 20px auto 40px;
+
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:23px;
+	font-weight:bold;
+	padding:13px 36px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.skill-row{
+  width: 50%;
+text-align: left;
+  margin:100px auto 60px auto;
+  line-height: 2;
+  }
+.middle-container{
+  padding: 100px 0 ;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: grey;
+}
+.footer-link:hover{
+  color: #EAf6f6;;
+}
+.copyright{
+  margin: 20px 10px;
+  color: #EAf6f6;
+  font-size: 1rem;
+}
+.main{
+  background-color: #00ffff;
+}
